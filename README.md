@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of our analysis is to determine whether removing the 9th grade scores from Thomas High School has any effect on the overall results of our School District Analysis. 
+The purpose of our analysis is to determine whether removing the 9th grade scores from Thomas High School (replacing with NaNs) has any effect on the overall results of our School District Analysis. 
 
 ## Results
 
@@ -37,11 +37,11 @@ vs.
 
 ## Summary
 
-There were four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+There were four major changes in the updated school district analysis after the reading and math scores for the ninth grade students at Thomas High School were replaced with NaNs:
 
 1. We had to calculate a new student count total to use for our calculations in the District Analysis
 2. We had to calculate new passing percentage rates using the new student count for the District Analysis
 3. We had to calculate a new student total for grades 10-12 at Thomas High School
 4. We had to calculate new passing percentage rates for grades 10-12 at Thomas High School for the School Analysis Summary.
 
-Once we inserted our calculated values into our School Analysis Summary, we used that data frame for the rest of our analysis, which showed that removing the 9th grade scores at Thomas High School had very little effect on our overall results.
+Once we inserted our calculated values into our School Analysis Summary, we used that modified data frame for the rest of our analysis, which showed that removing the 9th grade scores at Thomas High School had very little effect on our overall results.
