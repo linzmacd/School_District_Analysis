@@ -24,9 +24,9 @@ vs.
 ![top_schools_v2](Resources/top_schools_v2.PNG)
 
 * The rest of the metrics were not affected at all by removing the 9th grade scores at Thomas High School:
-	* Math and reading scores by grade - The only cells that are affected are the 9th grade scores at Thomas High School.
+	* Math (left) and reading (right) scores by grade - The only cells that are affected are the 9th grade scores at Thomas High School.
 	
-        Math: ![math_scores](Resources/math_scores.PNG)   Reading: ![reading_scores](Resources/reading_scores.PNG)
+        ![math_scores](Resources/math_scores.PNG) ![reading_scores](Resources/reading_scores.PNG)
 	* Scores by school spending - No observable change
 	![school_spending_summary](Resources/school_spending_summary.PNG)
 	* Scores by school size - No observable change
